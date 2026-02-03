@@ -17,6 +17,7 @@ while ch==1:
     for i in res:
         if mid==i[0]:
             stored=i[4]
+            
             stack=stored+aval
 
 
